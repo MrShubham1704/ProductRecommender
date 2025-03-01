@@ -21,3 +21,5 @@ The program outputs a list of recommended product IDs along with their scores, i
 This project is ideal for e-commerce, streaming platforms, and content-based applications where personalized suggestions enhance user experience. The implementation follows a structured approach, making it easy to extend for real-world applications.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b0351683-d27c-48b1-8af1-777d07bb8205)
